@@ -1,3 +1,3 @@
 # Zenith
 
-Zenith is ... (TODO)
+The economic engine for sovereign computing.
